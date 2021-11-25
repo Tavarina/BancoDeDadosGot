@@ -22,7 +22,7 @@ O obejtivo deste projeto é a manipular e vizualizar os dados inseridos em um ba
 
 Nossos time:
 
-Augusto Lumes
+Augusto Silva
 🔹 https://github.com/augustolumes
 
 Monique Souza
@@ -40,3 +40,9 @@ Fabiana Oliveira
 🔹 GitHub
 🔹 Data Studio Google
 🔹
+
+
+# :scroll: Dashboard :scroll:
+
+![image](https://user-images.githubusercontent.com/82628962/143502007-f787c781-c593-432e-a9be-b8c150fa7f92.png)
+
