@@ -8,7 +8,7 @@ O obejtivo deste projeto é a manipular e vizualizar os dados inseridos em um ba
 
 🔹Brainstorming, onde perguntas foram elaboradas para a execução dos dados das tabelas;
 
-🔹Organização e utilização de ferramentas como MySQL, Github, Data Studio Google e Trello para organização e construção do projeto.
+🔹Organização e utilização de ferramentas como MySQL, Github, PowerBi e Trello para organização e construção do projeto.
 
 
 # :tv: Dashboard com dados do Game of Thrones :tv:
@@ -38,7 +38,7 @@ Fabiana Oliveira
 🔹 MySQL
 🔹 Trello
 🔹 GitHub
-🔹 Data Studio Google
+🔹 PowerBi
 🔹
 
 
