@@ -1,4 +1,5 @@
-# Modulo 3 TechTalents Resilia-Neon - Banco de dados - Série Game of Thrones 
+# Banco de dados - Série Game of Thrones 
+Modulo 3 TechTalents Resilia/Neon
 
 :scroll: O projeto:
 
